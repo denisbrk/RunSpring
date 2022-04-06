@@ -1,0 +1,6 @@
+framework module Pods_RunSpring {
+  umbrella header "Pods-RunSpring-umbrella.h"
+
+  export *
+  module * { export * }
+}
